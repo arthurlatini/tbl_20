@@ -1,0 +1,31 @@
+ import java.util.Random;
+ 
+ public class RandomDouble {
+    public static void main(String[] args) {
+       Random num = new Random();
+       double randomDouble = num.nextDouble();
+       int winningNum = new Random;
+       Sytem.out.println("Número Aleatório: " + randomDouble);
+       System.out.println("O numéro do Jogador1 é: "+ winningNum ) 
+        }//fim do método main
+}//fim da classe RandomDouble
+
+public class RandomDouble {
+    public static void main(String[] args) {
+       Random num = new Random();
+       double randomDouble = num.nextDouble();
+       int winningNum = new Random;
+       Sytem.out.println("Número Aleatório: " + randomDouble);
+       System.out.println("O numéro do Jogador2 é: "+ winningNum ) 
+        }//fim do método main
+}//fim da classe RandomDouble
+       cadeia Jogador1,Jogador2,vencedor=""
+                    inteiro numero1,numero2
+                    se(numero1>numero2){
+                        vencedor = jogador1
+                    }senao se(numero2>numero1){
+                        vencedor = jogador2
+                    }senao{
+                        escreva("Deu empate")
+                        }}
+       
